@@ -28,7 +28,7 @@
 
 **[Hello rails back end]** is a backend rails api that provides service to the front-end react app to generate random greetings.
 
-## [Link to the front-end repo]()
+## [Link to the front-end repo](https://github.com/yodit93/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -119,7 +119,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Implement greeting in different languages]**
+- [ ] **[Add more views]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
